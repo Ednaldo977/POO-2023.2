@@ -3,4 +3,4 @@ Repositório de Atividades
 
 Atividade 01 : 
 
-<img src="/srcImage/atividade.png">
+<img src="/srcImage/atividade.PNG">
